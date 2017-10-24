@@ -20,4 +20,7 @@ int main (){
 	Biaya_pasang = Luas_rumah*20;
 	cout <<" Biaya Pasang (Rp)		: "<<Biaya_pasang<<endl;
 	
+	Totalbyr = Biaya_parket+Biaya_pasang;
+	cout <<" Total Biaya (Rp)		: "<<Totalby<<endl
+	
 }
