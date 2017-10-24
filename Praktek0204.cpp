@@ -21,6 +21,6 @@ int main (){
 	cout <<" Biaya Pasang (Rp)		: "<<Biaya_pasang<<endl;
 	
 	Totalbyr = Biaya_parket+Biaya_pasang;
-	cout <<" Total Biaya (Rp)		: "<<Totalby<<endl
+	cout <<" Total Biaya (Rp)		: "<<Totalby<<endl;
 	
 }
