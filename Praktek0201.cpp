@@ -3,9 +3,9 @@ using namespace std;
 
 int main (){
 	int nilai;
-	int 1Nilai;
+	int Nilai;
 	
 
 	cout << nilai;
-	cout << 1Nilai;	
+	cout << Nilai;	
 }
